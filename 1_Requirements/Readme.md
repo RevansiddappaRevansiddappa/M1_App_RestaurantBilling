@@ -15,4 +15,36 @@ For a restaurant’s billing software to function right, it needs certain crucia
 - While the software may need access to the internet in order to store data, it can also operate offline without a glitch. In case of power failures or no access to the internet, the system can restore the cloud storage once online, making it convenient and efficient during all times.
 6. 24*7 Support
 - While you may run your restaurant within a set time limit, your billing software can carry out conversations through chatbots in order to convey crucial information to the customers. You can provide round-the-clock support or choose to be available for a little more than the official open hours.
+## SWOT Analysis
+#### Strengths
+- Efficiency in Inventory Management
+- Ease of Performance Tracking
+- Anytime Access to the System
+- Management of Takeaways and Deliveries
+- Handling Restaurant Marketing
+#### Weaknesses
+- It is not cost-effective for small scale business owners.
+- Invoices can go into spam folders due to flagging by email servers; that leads to delay of payments.
+- Automatic invoices and management system reduces human mediation, which reduces personal touch for the business.
+- Irregularity of updates can lead to hardships and hassles between purchases and credits.
+#### Opportunities
+- Billing software will be linked not only to the kitchens, facilitating faster order turn arounds, but also link to marketing set-up, analytics, feedback & loyalty systems. 
+- One single system that takes care of the bulk of your operations and also integrates all revenue generating functions. 
+#### Threats
+- Competitors providing more “value add”
+- Poor ratings on review websites
+## 4W's and 1'H
+#### Who :
+Managing a restaurant can be a daunting task. With the right software to help you out, operating it can become effortless. The emergence of restaurant billing systems has made life easier for everyone in the restaurant industry.
+#### What :
+A restaurant billing software allows ease of billing transactions to make the process simpler and quicker. However, that is not all that the software does. The right software can help you deal with a number of things such as managing orders and inventories, tracking the sales and performance of the business, storing customer data for marketing purposes, and much more.
+#### When :
+A billing system in place ensures the elimination of any excess manual intervention. It also applies to the performance reports to keep track of the overall growth of your restaurant business. Restaurant billing software lets you can keep track of your restaurant's growth.
+#### Where :
+At its most basic definition, a billing system is the process by which a business bills and invoices customers. Billing systems often include payment software that automates the process of collecting payments, sending out recurring invoices, expense tracking, and invoice tracking.
+#### How :
+Every key feature of a billing system comes with its own perk that can take a restaurant’s business up another notch. Whether your restaurant business is a small one or one that has gained popularity among its customers, billing software is sure to help your restaurant in more ways than one.
+
+
+
 

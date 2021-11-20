@@ -44,7 +44,19 @@ A billing system in place ensures the elimination of any excess manual intervent
 At its most basic definition, a billing system is the process by which a business bills and invoices customers. Billing systems often include payment software that automates the process of collecting payments, sending out recurring invoices, expense tracking, and invoice tracking.
 #### How :
 Every key feature of a billing system comes with its own perk that can take a restaurant’s business up another notch. Whether your restaurant business is a small one or one that has gained popularity among its customers, billing software is sure to help your restaurant in more ways than one.
-
+## Detail Requirements
+#### High Level Requirements
+| ID |           Description     |    Status   |
+| -- | ------------------------- | ----------- |
+| 1. | Add New Customer details  | Implemented |
+| 2. | Add New Item names        | Implemented |
+| 3. | Generate Invoice including GST | Implemented |
+#### Low Level Requirements
+| ID |        Description        |    Status   |
+| -- | ------------------------- | ----------- |
+| 1. | Search Invoice for a particular Customer | Implemented |
+| 2. | Show all Invoice          | Implemented |
+      
 
 
 

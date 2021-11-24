@@ -3,3 +3,7 @@ The project Restaurant Billing System gives us the facility to manage the Restau
 | Codecy | 
 | ----- |
 | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9e17f63b471e4c5081a796bb92e2695a)](https://www.codacy.com/gh/RevansiddappaRevansiddappa/M1_App_RestaurantBilling/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RevansiddappaRevansiddappa/M1_App_RestaurantBilling&amp;utm_campaign=Badge_Grade) |
+| Code Quality Score |
+| ![Code Grade](https://api.codiga.io/project/29988/score/svg) |
+| Code Grade |
+| ![Code Grade](https://api.codiga.io/project/29988/status/svg) |

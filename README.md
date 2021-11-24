@@ -7,3 +7,5 @@ The project Restaurant Billing System gives us the facility to manage the Restau
 | ![Code Grade](https://api.codiga.io/project/29988/score/svg) |
 | Code Grade |
 | ![Code Grade](https://api.codiga.io/project/29988/status/svg) |
+| Cppcheck |
+| [![Code Quality - Static Code - Cppcheck](https://github.com/RevansiddappaRevansiddappa/M1_App_RestaurantBilling/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/RevansiddappaRevansiddappa/M1_App_RestaurantBilling/actions/workflows/cppcheck.yml) |

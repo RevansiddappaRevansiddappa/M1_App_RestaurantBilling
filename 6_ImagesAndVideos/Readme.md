@@ -20,3 +20,8 @@ Step 5: For Third operation it shows the Invoice of a particular customer which 
 <img width="352" alt="Image_5" src="https://user-images.githubusercontent.com/94313525/143386267-2b60e126-c0e0-4319-99ee-3fe20eb63bb5.png">
 
 Step 6: Fourth operation shows the exit from the operations. Eg. Bye Bye :)
+
+# Output Video
+
+https://user-images.githubusercontent.com/94313525/143388332-0ab9c4b6-4b45-495a-8f4e-058908151f46.mp4
+

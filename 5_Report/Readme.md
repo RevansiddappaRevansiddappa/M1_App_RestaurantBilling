@@ -1,3 +1,4 @@
+# Project Report
 # Requirements
 ## Introduction
 The project is “Restaurant Billing System” software for monitoring and controlling the transactions in a Restaurant. The project Restaurant Billing System is developed on C programming language which mainly focuses on basic operation in a Restaurant like – select Order, view Order, adding new member, generate Bill, calculate Discount and Tax, generate report. Restaurant Billing System is a windows application designed to help users maintain & organize Restaurant. This application is easy to use for both beginners & advanced users. It features a familiar and well thought – out, an attractive user interface, combined with strong searching, insertion & deletion capabilities.

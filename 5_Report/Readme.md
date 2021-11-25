@@ -56,6 +56,13 @@ Every key feature of a billing system comes with its own perk that can take a re
 | -- | ------------------------- | ----------- |
 | 1. | Search Invoice for a particular Customer | Implemented |
 | 2. | Show all Invoice          | Implemented |
+
+
+# Behavioural Diagram
+![Flow Chart](https://user-images.githubusercontent.com/94313525/142740070-a96050e0-4583-4ebc-887d-4c91bdfb709f.png)
+
+
+
     
     
 

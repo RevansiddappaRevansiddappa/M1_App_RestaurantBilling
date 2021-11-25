@@ -7,6 +7,9 @@ Step 2: Please enter the name of the customer & order details.
 
 <img width="360" alt="Image_2" src="https://user-images.githubusercontent.com/94313525/143382506-a59b8069-5c98-435c-8514-68a2cf8cddd2.png">
 
-Step 3: For Second operation it shows your previous Invoices.
+Step 3: It  will display the Genearted Invoice of the Customer.
 
+<img width="344" alt="Image_3" src="https://user-images.githubusercontent.com/94313525/143384075-07ae0c9b-a31a-4c75-abfb-6fa0a071dd2d.png">
+
+Step 4: For Second operation it shows your previous Invoices.
 

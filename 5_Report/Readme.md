@@ -61,6 +61,9 @@ Every key feature of a billing system comes with its own perk that can take a re
 # Behavioural Diagram
 ![Flow Chart](https://user-images.githubusercontent.com/94313525/142740070-a96050e0-4583-4ebc-887d-4c91bdfb709f.png)
 
+# Structural Diagram
+![Structural Diagram](https://user-images.githubusercontent.com/94313525/142759615-62a3be38-c9a2-4c78-bbae-bb6078bd2de6.png)
+
 
 
     
